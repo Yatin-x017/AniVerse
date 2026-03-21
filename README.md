@@ -1,4 +1,4 @@
-# AniVerse
+#${\color{blue}Aniverse \space blue \space text}$
 <img width="3840" height="2160" alt="spy-x-family-season-3840x2160-24443" src="https://github.com/user-attachments/assets/7623c692-c9bb-467c-b4c1-d8ccc0513ef3" />
 
 Made for Web application Programming Project. This project uses public api (jikan api) to fetch anime data and create an web page for anime.
