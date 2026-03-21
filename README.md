@@ -1,6 +1,5 @@
 # AniVerse
-
-![Slide till the end 👉___Sometimes the quiet moments speak louder than battles 🌸🍃 _Finding peace in nature, just like them… 🦋☀️ #DemonSlayerVibes___Follow for more @mrcai320__#AnimeAesthetic #DemonSlayer #AnimeEditz #AnimeV](https://github.com/user-attachments/assets/5d3f6f97-0910-4a03-a092-4508f6f4edfe)
+<img width="3840" height="2160" alt="spy-x-family-season-3840x2160-24443" src="https://github.com/user-attachments/assets/7623c692-c9bb-467c-b4c1-d8ccc0513ef3" />
 
 Made for Web application Programming Project. This project uses public api (jikan api) to fetch anime data and create an web page for anime.
 AniVerse finds the best next watch for you effortlessly.
